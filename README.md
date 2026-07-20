@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Binary Search
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
