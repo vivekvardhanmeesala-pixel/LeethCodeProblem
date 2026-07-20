@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
