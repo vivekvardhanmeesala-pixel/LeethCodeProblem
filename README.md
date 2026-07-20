@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
