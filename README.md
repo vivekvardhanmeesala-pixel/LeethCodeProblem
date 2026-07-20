@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -37,12 +38,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
