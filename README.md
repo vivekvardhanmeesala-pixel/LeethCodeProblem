@@ -10,11 +10,13 @@
 | [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
@@ -35,6 +37,7 @@
 | [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +62,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +72,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
