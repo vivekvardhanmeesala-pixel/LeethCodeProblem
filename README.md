@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
