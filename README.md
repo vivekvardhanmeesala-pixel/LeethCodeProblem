@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
