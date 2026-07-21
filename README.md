@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0412-fizz-buzz) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -108,5 +110,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
