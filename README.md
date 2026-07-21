@@ -42,6 +42,7 @@
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0500-keyboard-row) |
 ## Hash Table
@@ -60,6 +61,7 @@
 | [0027-remove-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0344-reverse-string) |
 ## String
 |  |
