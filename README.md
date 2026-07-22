@@ -21,6 +21,7 @@
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0672-bulb-switcher-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0672-bulb-switcher-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
+| [0672-bulb-switcher-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0672-bulb-switcher-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +138,12 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0319-bulb-switcher) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
