@@ -14,6 +14,7 @@
 | [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -62,6 +64,7 @@
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0500-keyboard-row) |
 ## Two Pointers
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
