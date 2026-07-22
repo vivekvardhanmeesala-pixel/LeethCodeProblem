@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0283-move-zeroes) |
@@ -109,10 +111,15 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
