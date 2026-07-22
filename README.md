@@ -16,6 +16,7 @@
 | [0263-ugly-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0509-fibonacci-number) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0264-ugly-number-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/vivekvardhanmeesala-pixel/LeethCodeProblem/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
